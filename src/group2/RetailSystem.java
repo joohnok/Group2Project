@@ -5,7 +5,7 @@ import java.util.Random;
 
 
 /**
- * @author TIMI
+ * @author Roland
  *
  */
 public class RetailSystem {
